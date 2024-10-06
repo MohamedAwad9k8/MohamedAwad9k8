@@ -29,7 +29,7 @@ reliable, effective outcomes.</h3>**
   - AI Chatbots with Amazon Lex
 - 🌱 **Currently Learning:** Expanding my knowledge on Terraform and Ansible.
 - 💬 **Ask Me About:** AWS & DevOps.
-- 📂 **Portfolio:** [mo2cloud.com](https://www.mo2cloud.com/).
+- 📂 **Website:** [mo2cloud.com](https://www.mo2cloud.com/).
 
  **<h3 align="left">Skills</h3>**
 
