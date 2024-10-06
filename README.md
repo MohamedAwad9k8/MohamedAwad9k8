@@ -1,4 +1,5 @@
-![👋 Hi, my name is Mohamed Awad](https://www.codecademy.com/resources/blog/wp-content/uploads/2022/12/Websites-Software-Programmers-Thumbnails_1200x558.png?w=1024)
+![👋 Hi, my name is Mohamed Awad]([https://www.codecademy.com/resources/blog/wp-content/uploads/2022/12/Websites-Software-Programmers-Thumbnails_1200x558.png?w=1024](https://github.com/user-attachments/assets/8f8c1902-6021-4100-b18d-62c1c67dda3b))
+
 
 <div id="toc">
   <ul align="center" style="list-style: none">
