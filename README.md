@@ -41,16 +41,12 @@ reliable, effective outcomes.</h3>**
   <img width="55%" src="https://github-readme-stats.vercel.app/api?username=MohamedAwad9k8&theme=github_dark&cache_seconds=1800&border_radius=10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&line_height=25&show=reviews%2Cprs_merged_percentage%2Cprs_merged" alt="GitHub stats Card" />
   </p>
 
-  <br></br>
- 
   <p align="center">
   <img width="55%" src="https://streak-stats.demolab.com/?user=MohamedAwad9k8&theme=github-dark-blue&hide_border=false&border_radius=10&date_format=M+j%5B%2C+Y%5D&mode=daily&disable_animations=false&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&exclude_days=&locale=en&card_height=200" alt="GitHub streak Card" />
 </p>
 
-<br></br>
-
 <p align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedAwad9k8&theme=github_dark&cache_seconds=1800&border_radius=4&hide_title=false&layout=normal&langs_count=10&card_width=400&hide_progress=false&hide_border=false" alt="GitHub top-langs Card" />
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedAwad9k8&theme=github_dark&cache_seconds=1800&border_radius=4&hide_title=false&layout=compact&langs_count=8&card_width=400&hide_progress=false&hide_border=false" alt="GitHub top-langs Card" />
 </p>
 
 
