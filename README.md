@@ -6,7 +6,7 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        👋 Hi, my name is Mohamed Awad
+        Hi, I’m Mohamed 👋
       </h1>
     </summary>
   </ul>
@@ -15,21 +15,9 @@
 **<h3 align="center">Connect with me:</h3>** 
 <p align="center"><a href="https://www.linkedin.com/in/mkhaledawad" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/mo_awad9k8" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">🚀 Motivated Cloud Engineer and DevOps enthusiast with a passion for designing
-and implementing cloud solutions to tackle everyday challenges. Whether
-collaborating with a team to achieve project goals or helping the company meet
-its targets, I leverage my AWS and DevOps skills to simplify tasks and ensure
-reliable, effective outcomes.</h3>**
+ **<h3 align="left">AWS Certified Solutions Arhcitect with hands-on DevOps experience, building cloud infrastructure, CI/CD pipelines, provisioning kubernetes clusters and deploying containerized microservices. Passionate about software engineering, I love creating scalable backend systems using Python (FastAPI, Flask) and Node.js (Express), integrating databases like MySQL, PostgreSQL, and MongoDB, designing APIs, and implementing secure authentication mechanisms (JWT, IAM roles, RBAC, etc.)
 
-**<h3 align="left">Quick Insights</h3>**
-
-- 💼 **Currently Working On:**
-  - AWS Projects involving CI/CD pipelines with CodePipeline
-  - Infrastructure as Code (IaC) using CloudFormation
-  - AI Chatbots with Amazon Lex
-- 🌱 **Currently Learning:** Expanding my knowledge on Terraform and Ansible.
-- 💬 **Ask Me About:** AWS & DevOps.
-- 📂 **Website:** [mo2cloud.com](https://www.mo2cloud.com/).
+I have recently architected an end to end developer self-service platforms with Backstage, building automation frameworks that reduce provisioning time by 90% and empower developer teams to manage infrastructure and services efficiently.</h3>**
 
  **<h3 align="left">Skills</h3>**
 
