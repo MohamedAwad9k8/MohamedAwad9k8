@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/31ef4825-12b1-4344-be9e-0c94cee59896" alt="👋 Hi, my name is Mohamed Awad">
-</p>
-
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
