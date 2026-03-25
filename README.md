@@ -11,13 +11,13 @@
 **<h3 align="center">Links:</h3>** 
 <p align="center"><a href="https://www.linkedin.com/in/mkhaledawad" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a><a href="https://resume.mo2cloud.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=link&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<p align="left"> Platform and backend engineer with hands-on experience across the full stack of cloud-native systems, from provisioning EKS clusters and building internal developer platforms, to designing microservices and REST APIs in production. </p>**
+**<p align="left"> Software engineer with hands-on experience in backend development and cloud-native systems. At Al-Matar, I build microservices and REST APIs on an event-driven stack: Kafka and RabbitMQ for messaging, MySQL, PostgreSQL, MongoDB, and Redis for data, with per-service Grafana dashboards for observability. </p>**
 
-**<p align="left"> At Al-Matar, I've worked across both layers: on the platform side I built AWS infrastructure with Terraform, managed Kubernetes clusters, designed GitOps pipelines, and developed a Backstage-based internal developer platform backed by a FastAPI automation ecosystem; on the backend side I build NestJS/TypeScript microservices with event-driven architecture using Kafka, and work with MySQL, PostgreSQL, MongoDB, and Redis. </p>**
+**<p align="left"> I deploy and manage services on Kubernetes across multiple EKS clusters, handling secrets and config through Vault and ConfigMaps, setting up health probes, provisioning databases on AWS with Terraform, and connecting services to AWS resources like S3 through IAM Roles for Service Accounts. I also built an internal developer platform with FastAPI (Python) that cut provisioning time by 90%. </p>**
 
-**<p align="left"> I hold AWS SAA and CKAD certifications, and bring a security-first mindset from a prior background in vulnerability research, disclosing 8 CVEs across WordPress plugins. </p>**
+**<p align="left"> Prior background in security research, where I discovered and disclosed 8 CVEs across WordPress plugins. CKAD (Kubernetes) certified. AWS Solutions Architect Associate certified. </p>**
 
-**<p align="left"> Open to platform engineering, backend, or hybrid roles where both skill sets are valued. </p>**
+**<p align="left"> Open to relocation across Europe. </p>**
 
 
  **<h3 align="left">Skills</h3>**
