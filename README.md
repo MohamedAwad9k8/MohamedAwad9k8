@@ -11,11 +11,11 @@
 **<h3 align="center">Links:</h3>** 
 <p align="center"><a href="https://www.linkedin.com/in/mkhaledawad" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a><a href="https://resume.mo2cloud.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=link&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
-**<p align="left"> Platform and cloud engineer managing 9 Kubernetes clusters (AWS EKS, OCI) across multiple regions. Built a Backstage-based internal developer platform with a FastAPI automation backend that cut infrastructure provisioning time by 90%. I provision cloud resources with Terraform, operate microservice fleets via GitOps (ArgoCD, Helm), and monitor infrastructure with Prometheus, Grafana, and ELK. </p>**
+**<p align="left"> DevOps engineer. CKAD certified. AWS Solutions Architect Associate certified. Built a Backstage-based internal developer platform with a custom FastAPI automation backend and Azure SSO integration, reducing infrastructure provisioning from hours to minutes. Managed multiple Kubernetes clusters across AWS with GitOps (ArgoCD, Helm, Terraform), implemented security with Vault and IRSA, and monitored production infrastructure with Prometheus, Grafana, and ELK. Creator of Backstage PyActions, an open-source framework enabling platform teams to expose Python automation as Backstage scaffolder actions.</p>**
 
-**<p align="left"> Background in security research with 8 published CVEs. CKAD and AWS Solutions Architect Associate certified. </p>**
+**<p align="left"> Security-first mindset from vulnerability research: discovered and responsibly disclosed multiple CVEs in WordPress plugins (XSS, SQLi, CSRF, LFI, RFI). <br>  Seeking DevOps, Platform, and SRE opportunities. </p>**
 
-**<p align="left"> Open to relocation across Europe. </p>**
+**<p align="left"> Verify CVE disclosures here: <a>https://www.wordfence.com/threat-intel/vulnerabilities/researchers/mohamed-awad</a>  </p>**
 
 
  **<h3 align="left">Skills</h3>**
