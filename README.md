@@ -11,11 +11,26 @@
 **<h3 align="center">Links:</h3>** 
 <p align="center"><a href="https://www.linkedin.com/in/mohamedawad9k8" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a><a href="https://resume.mo2cloud.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=link&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
-**<p align="left"> DevOps engineer. CKAD certified. AWS Solutions Architect Associate certified. Built a Backstage-based internal developer platform with a custom FastAPI automation backend and Azure SSO integration, reducing infrastructure provisioning from hours to minutes. Managed multiple Kubernetes clusters across AWS with GitOps (ArgoCD, Helm, Terraform), implemented security with Vault and IRSA, and monitored production infrastructure with Prometheus, Grafana, and ELK. Creator of Backstage PyActions, an open-source framework enabling platform teams to expose Python automation as Backstage scaffolder actions.</p>**
+**<p align="left"> AWS Cloud Engineer specializing in Kubernetes, Terraform, GitOps, DevOps, and Platform Engineering.</p>**
 
-**<p align="left"> Security-first mindset from vulnerability research: discovered and responsibly disclosed multiple CVEs in WordPress plugins (XSS, SQLi, CSRF, LFI, RFI). <br>  Seeking DevOps, Platform, and SRE opportunities. </p>**
+**<p align="left"> I build and operate production cloud-native infrastructure and internal developer platforms on AWS, with hands-on experience across Amazon EKS, Kubernetes, Terraform, ArgoCD, Helm, GitLab CI/CD, observability, security, secrets management, and infrastructure automation.</p>**
 
-**<p align="left"> Verify CVE disclosures here: <a>https://www.wordfence.com/threat-intel/vulnerabilities/researchers/mohamed-awad</a>  </p>**
+**<p align="left"> Managed 9 AWS EKS clusters across multiple regions and accounts, supporting 200+ microservices in multi-tenant environments. Experienced in building reliable infrastructure with GitOps, implementing security with Vault and AWS IAM/IRSA, and operating production systems with Prometheus, Grafana, and ELK.</p>**
+
+**<p align="left"> In addition I have hands-on Platform Engineering experience building an internal developer platform with Backstage, including a custom FastAPI automation backend and Azure SSO integration to enable self-service infrastructure workflows. Which lead me to creating Backstage PyActions, an open-source Python/FastAPI framework for exposing automation as Backstage scaffolder actions. This was my personal approach to solving the pain points I faced when building automation workflows with backstage. I made the tool open source so that hopefully it can help other Platform/DevOps teams struggling with the same challenges.
+<br> For more details check the project repo: <a href="https://github.com/MohamedAwad9k8/backstage-pyactions">MohamedAwad9k8/backstage-pyactions</a> </p>**
+
+**<p align="left"> My software development background includes Python, Go, TypeScript, Node.js, FastAPI, and microservices, allowing me to work across both infrastructure and application layers. </p>**
+
+**<p align="left"> Certifications: CNPA · CKAD · AWS Certified Solutions Architect – Associate </p>**
+
+**<p align="left"> Earlier in my career, I worked in security research, discovering and responsibly disclosing 8 CVEs through vulnerability research and manual code review. This shaped a security-first approach to cloud infrastructure, automation, and software engineering. </p>**
+
+**<p align="left"> Currently interested in Cloud Engineer, DevOps, Platform Engineering, and SRE opportunities, particularly roles involving AWS, Kubernetes, Terraform, GitOps, internal developer platforms, and cloud-native infrastructure. </p>**
+
+**<p align="left"> Open to international relocation and opportunities across Germany and Europe. </p>**
+
+**<p align="left"> Verify CVE disclosures here: <a href="https://www.wordfence.com/threat-intel/vulnerabilities/researchers/mohamed-awad">Wordfence Researcher Profile</a>  </p>**
 
 
  **<h3 align="left">Skills</h3>**
@@ -37,6 +52,12 @@
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" height="32" alt="GitHub Actions">
   <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?logo=argo&logoColor=white" height="32" alt="ArgoCD">
   <img src="https://img.shields.io/badge/Vault-FFEC6E?logo=vault&logoColor=black" height="32" alt="Vault">
+
+  <!-- Platform Engineering & Service Mesh -->
+  <img src="https://img.shields.io/badge/Backstage-9BF0E1?logo=backstage&logoColor=black" height="32" alt="Backstage">
+  <img src="https://img.shields.io/badge/Istio-466BB0?logo=istio&logoColor=white" height="32" alt="Istio">
+  <img src="https://img.shields.io/badge/OpenShift-EE0000?logo=redhatopenshift&logoColor=white" height="32" alt="OpenShift">
+
   <!-- Observability -->
   <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white" height="32" alt="Prometheus">
   <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" height="32" alt="Grafana">
@@ -49,4 +70,5 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" height="32" alt="Redis">
   <!-- Backend & Frameworks -->
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="32" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="32" alt="Node.js">
  </div>
