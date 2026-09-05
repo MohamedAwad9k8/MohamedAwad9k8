@@ -17,8 +17,10 @@
 
 **<p align="left"> Managed 9 AWS EKS clusters across multiple regions and accounts, supporting 200+ microservices in multi-tenant environments. Experienced in building reliable infrastructure with GitOps, implementing security with Vault and AWS IAM/IRSA, and operating production systems with Prometheus, Grafana, and ELK.</p>**
 
-**<p align="left"> In addition I have hands-on Platform Engineering experience building an internal developer platform with Backstage, including a custom FastAPI automation backend and Azure SSO integration to enable self-service infrastructure workflows. Which lead me to creating Backstage PyActions, an open-source Python/FastAPI framework for exposing automation as Backstage scaffolder actions. This was my personal approach to solving the pain points I faced when building automation workflows with backstage. I made the tool open source so that hopefully it can help other Platform/DevOps teams struggling with the same challenges.
-<br> For more details check the project repo: <a href="https://github.com/MohamedAwad9k8/backstage-pyactions">MohamedAwad9k8/backstage-pyactions</a> </p>**
+**<p align="left"> In addition, I have hands-on Platform Engineering experience building an internal developer platform with Backstage, including a custom FastAPI automation backend and Azure SSO integration to enable self-service infrastructure workflows. This experience led me to create Backstage PyActions, an open-source Python/FastAPI framework for exposing automation as Backstage scaffolder actions.</p>**
+
+**<p align="left"> I built PyActions to address the challenges I encountered when developing automation workflows with Backstage, particularly when integrating existing Python-based automation without rewriting it in Node.js/TypeScript. I open-sourced the project so that other Platform and DevOps teams facing similar challenges can benefit from the same approach. For more details, check the project repository:
+<a href="https://github.com/MohamedAwad9k8/backstage-pyactions">MohamedAwad9k8/backstage-pyactions</a></p>**
 
 **<p align="left"> My software development background includes Python, Go, TypeScript, Node.js, FastAPI, and microservices, allowing me to work across both infrastructure and application layers. </p>**
 
