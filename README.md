@@ -24,7 +24,7 @@
 
 **<p align="left"> My software development background includes Python, Go, TypeScript, Node.js, FastAPI, and microservices, allowing me to work across both infrastructure and application layers. </p>**
 
-**<p align="left"> Certifications: CNPA · CKAD · AWS Certified Solutions Architect – Associate </p>**
+**<p align="left"> Certifications: CNPA · CKAD · CBA · AWS Certified Solutions Architect – Associate </p>**
 
 **<p align="left"> Earlier in my career, I worked in security research, discovering and responsibly disclosing 8 CVEs through vulnerability research and manual code review. This shaped a security-first approach to cloud infrastructure, automation, and software engineering. </p>**
 
