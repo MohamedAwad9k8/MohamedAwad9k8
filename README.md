@@ -34,6 +34,8 @@
 
 **<p align="left"> Verify CVE disclosures here: <a href="https://www.wordfence.com/threat-intel/vulnerabilities/researchers/mohamed-awad">Wordfence Researcher Profile</a>  </p>**
 
+**<p align="left"> Check out my latest project, SparrowX ECS, a multi-repository AWS ECS/Fargate platform focused on platform engineering, DevSecOps, and secure cloud-native delivery. It features reusable infrastructure, standardized security controls, automated CI/CD, observability, and safe deployment, promotion, and rollback workflows. <a href="https://github.com/SparrowX-ECS/project-overview">Project Overview</a> </p>**
+
 
  **<h3 align="left">Skills</h3>**
 
