@@ -13,24 +13,25 @@
 
 **<p align="left"> AWS Cloud Engineer specializing in Kubernetes, Terraform, GitOps, DevOps, and Platform Engineering.</p>**
 
-**<p align="left"> I build and operate production cloud-native infrastructure and internal developer platforms on AWS, with hands-on experience across Amazon EKS, Kubernetes, Terraform, ArgoCD, Helm, GitLab CI/CD, observability, security, secrets management, and infrastructure automation.</p>**
+<p align="left"> I build and operate production cloud-native infrastructure and internal developer platforms on AWS, with hands-on experience across Amazon EKS, ECS/Fargate, Kubernetes, Terraform, CloudFormation, Crossplane, ArgoCD, Helm, GitLab CI/CD, observability, security, secrets management, and infrastructure automation.</p>
 
-**<p align="left"> Managed 9 AWS EKS clusters across multiple regions and accounts, supporting 200+ microservices in multi-tenant environments. Experienced in building reliable infrastructure with GitOps, implementing security with Vault and AWS IAM/IRSA, and operating production systems with Prometheus, Grafana, and ELK.</p>**
+<p align="left"> Managed 9 AWS EKS clusters across multiple regions and accounts, supporting more than 200 microservices in multi-tenant environments. I build reliable GitOps-based platforms with Terraform, Argo CD, Helm, and GitLab CI/CD, while securing workloads through Vault, AWS IAM, Kubernetes service accounts, and Pod Identity. I also build internal developer platforms with Backstage to enable developer self-service through golden paths, using Argo CD and Crossplane to automate application delivery and cloud infrastructure provisioning. </p>
 
-**<p align="left"> In addition, I have hands-on Platform Engineering experience building an internal developer platform with Backstage, including a custom FastAPI automation backend and Azure SSO integration to enable self-service infrastructure workflows. This experience led me to create Backstage PyActions, an open-source Python/FastAPI framework for exposing automation as Backstage scaffolder actions.</p>**
+**<p align="left"> Professional certifications: Certified Cloud Native Platform Engineering Associate (CNPA) · Certified Kubernetes Application Developer (CKAD) · Certified Backstage Associate (CBA) · AWS Certified Solutions Architect – Associate. </p>**
 
-**<p align="left"> I built PyActions to address the challenges I encountered when developing automation workflows with Backstage, particularly when integrating existing Python-based automation without rewriting it in Node.js/TypeScript. I open-sourced the project so that other Platform and DevOps teams facing similar challenges can benefit from the same approach. For more details, check the project repository:
-<a href="https://github.com/MohamedAwad9k8/backstage-pyactions">MohamedAwad9k8/backstage-pyactions</a></p>**
+<p align="left"> Currently interested in Cloud Engineer, DevOps, Platform Engineering, and SRE opportunities, particularly roles involving AWS, Kubernetes, Terraform, GitOps, internal developer platforms, and cloud-native infrastructure. </p>
 
-**<p align="left"> My software development background includes Python, Go, TypeScript, Node.js, FastAPI, and microservices, allowing me to work across both infrastructure and application layers. </p>**
+**<p align="left"> Open to relocation across Europe, with a particular focus on Germany and the Netherlands.
+  EU Blue Card eligible with a qualifying job offer, and open to Germany’s Opportunity Card (Chancenkarte) pathway </p>**
 
-**<p align="left"> Certifications: CNPA · CKAD · CBA · AWS Certified Solutions Architect – Associate </p>**
+<p align="left"> My platform engineering experience also includes building an internal developer platform with Backstage, including a custom FastAPI automation backend and Azure SSO integration to enable self-service infrastructure workflows. This experience led me to create Backstage PyActions, an open-source Python/FastAPI framework for exposing automation as Backstage scaffolder actions.</p>
 
-**<p align="left"> Earlier in my career, I worked in security research, discovering and responsibly disclosing 8 CVEs through vulnerability research and manual code review. This shaped a security-first approach to cloud infrastructure, automation, and software engineering. </p>**
+<p align="left"> I built PyActions to address the challenges I encountered when developing automation workflows with Backstage, particularly when integrating existing Python-based automation without rewriting it in Node.js/TypeScript. I open-sourced the project so that other Platform and DevOps teams facing similar challenges can benefit from the same approach. For more details, check the project repository:
+<a href="https://github.com/MohamedAwad9k8/backstage-pyactions">MohamedAwad9k8/backstage-pyactions</a></p>
 
-**<p align="left"> Currently interested in Cloud Engineer, DevOps, Platform Engineering, and SRE opportunities, particularly roles involving AWS, Kubernetes, Terraform, GitOps, internal developer platforms, and cloud-native infrastructure. </p>**
+<p align="left"> My software development background includes Python, Go, TypeScript, Node.js, FastAPI, and microservices, allowing me to work across both infrastructure and application layers. </p>
 
-**<p align="left"> Open to international relocation and opportunities across Germany and Europe. </p>**
+<p align="left"> Earlier in my career, I worked in security research, discovering and responsibly disclosing 8 CVEs through vulnerability research and manual code review. This shaped a security-first approach to cloud infrastructure, automation, and software engineering. </p>
 
 **<p align="left"> Verify CVE disclosures here: <a href="https://www.wordfence.com/threat-intel/vulnerabilities/researchers/mohamed-awad">Wordfence Researcher Profile</a>  </p>**
 
@@ -77,8 +78,8 @@
   <!-- Platform Engineering & Service Mesh -->
   <img src="https://img.shields.io/badge/Backstage-9BF0E1?logo=backstage&logoColor=black" height="32" alt="Backstage">
   <img src="https://img.shields.io/badge/Istio-466BB0?logo=istio&logoColor=white" height="32" alt="Istio">
-  <img src="https://img.shields.io/badge/OpenShift-EE0000?logo=redhatopenshift&logoColor=white" height="32" alt="OpenShift">
-
+  <img src="https://img.shields.io/badge/Crossplane-3066BE?logo=crossplane&logoColor=white" height="32" alt="Crossplane">
+  
   <!-- Observability -->
   <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white" height="32" alt="Prometheus">
   <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" height="32" alt="Grafana">
