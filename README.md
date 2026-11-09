@@ -19,10 +19,10 @@
 
 **<p align="left"> Professional certifications: Certified Cloud Native Platform Engineering Associate (CNPA) · Certified Kubernetes Application Developer (CKAD) · Certified Backstage Associate (CBA) · AWS Certified Solutions Architect – Associate. </p>**
 
-<p align="left"> Currently interested in Cloud Engineer, DevOps, Platform Engineering, and SRE opportunities, particularly roles involving AWS, Kubernetes, Terraform, GitOps, internal developer platforms, and cloud-native infrastructure. </p>
+<!-- <p align="left"> Currently interested in Cloud Engineer, DevOps, Platform Engineering, and SRE opportunities, particularly roles involving AWS, Kubernetes, Terraform, GitOps, internal developer platforms, and cloud-native infrastructure. </p>
 
 **<p align="left"> Open to relocation across Europe, with a particular focus on Germany and the Netherlands.
-  EU Blue Card eligible with a qualifying job offer, and open to Germany’s Opportunity Card (Chancenkarte) pathway </p>**
+  EU Blue Card eligible with a qualifying job offer, and open to Germany’s Opportunity Card (Chancenkarte) pathway </p>** -->
 
 <p align="left"> My platform engineering experience also includes building an internal developer platform with Backstage, including a custom FastAPI automation backend and Azure SSO integration to enable self-service infrastructure workflows. This experience led me to create Backstage PyActions, an open-source Python/FastAPI framework for exposing automation as Backstage scaffolder actions.</p>
 
